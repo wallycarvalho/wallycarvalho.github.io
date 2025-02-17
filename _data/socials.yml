@@ -7,20 +7,20 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: you@example.com # your email address
+email: qzn2cp83@mozmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: wallycarvalho # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: allyson-alves-carvalho # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -29,8 +29,8 @@ inspirehep_id: 1010907 # Inspire HEP author ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+# rss_icon: true # set to true to show the RSS icon
+# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -46,6 +46,6 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+  logo: data:image/png;base64,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
+  title: Unity Learn
+  url: https://learn.unity.com/u/65e59aeeedbc2a0a42f41b8b?tab=profile
