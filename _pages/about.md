@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Generalist Software Engineer and <a href="#">aspiring C# programmer.</a>
+subtitle: Generalist Software Engineer and <a href="#">C# Unity Programmer.</a>
 
 profile:
   align: right
@@ -30,4 +30,4 @@ After getting my degree in Boston, I started to explore Full Stack opportunities
 
 Since that opportunity, I worked in the fintech space building Full Stack B2B solutions and Bluetooth Low Energy software for companies that aimed to modernize real estate buildings in NY, Boston, and San Francisco.
 
-In early 2025, I have been studying, practicing, and building simple scenes in Unity as a way to learn something new and enhance my programming skills. My most recent achievement was the completion of the <a href="https://learn.unity.com/pathway/unity-essentials">Unity Essentials Pathway</a>. I aim to continue to hone these C# skills to handle interactions between the user (player) and the engine. I have always been fascinated by how and what happens under the hood and my curiosity has always been one of the pillars in what I consider a requirement to succeed at any task in software engineering.
+<u>In early 2025, I have made a decision to transition to the Gaming Industry. Since then, I have been studying, practicing, and working through Unity's pathway program building simple games, learning Unity Editor, and coding in C# for Unity's game engine</u>. Soon you can find games I have working on in the top menu bar. My most recent achievement was the completion of the <a href="https://learn.unity.com/pathway/unity-essentials">Unity Essentials Pathway</a>. I aim to continue to hone these C# skills to handle interactions between the user (player) and the engine. I have always been fascinated by how and what happens under the hood and my curiosity has always been one of the pillars in what I consider a requirement to succeed at any task in software engineering.
