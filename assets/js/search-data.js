@@ -9,7 +9,25 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-image-galleries",
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-transitioning-to-gaming-from-general-software-development-part-1",
+      
+        title: "Transitioning to Gaming from General Software Development - Part 1",
+      
+      description: "The beginning of a new journey",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/new-stuff/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
