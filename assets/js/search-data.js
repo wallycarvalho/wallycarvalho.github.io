@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-transitioning-to-gaming-from-general-software-development-part-1",
+        },{id: "post-sandwich-projectiles-are-flying-off-the-screen",
+      
+        title: "Sandwich projectiles are flying off the screen",
+      
+      description: "Controlling the player and shooting projectiles",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/unity-student-prototype/";
+        
+      },
+    },{id: "post-transitioning-to-gaming-from-general-software-development-part-1",
       
         title: "Transitioning to Gaming from General Software Development - Part 1",
       
