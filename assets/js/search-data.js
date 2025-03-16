@@ -16,7 +16,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-sandwich-projectiles-are-flying-off-the-screen",
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "A list of the most relevant repositories",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
+          },
+        },{id: "post-implementing-basic-gameplay-mission-from-unity3d",
+      
+        title: "Implementing Basic Gameplay mission from Unity3D",
+      
+      description: "Devlog on completing the basic gameplay mission on Unity",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/basic-gameplay-challenge/";
+        
+      },
+    },{id: "post-sandwich-projectiles-are-flying-off-the-screen",
       
         title: "Sandwich projectiles are flying off the screen",
       
@@ -43,6 +61,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-portfolio-page-is-live",
           title: 'Portfolio page is live!',
+          description: "",
+          section: "News",},{id: "news-repository-page-is-available-all-my-ongoing-student-and-future-projects-will-be-highlighted-on-that-page",
+          title: 'Repository page is available. All my ongoing student and future projects will be...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
