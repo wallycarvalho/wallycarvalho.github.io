@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Product and LLM Engineer
+subtitle: Generalist Engineer and Aspiring AI Product and LLM Engineer
 
 profile:
   align: right
