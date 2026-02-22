@@ -29,7 +29,6 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
-    paths:
       - "assets/**"
       - "_sass/**"
       - "**.bib"
