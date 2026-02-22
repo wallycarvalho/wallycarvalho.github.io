@@ -42,6 +42,18 @@
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
 
+  // Neon Accent Colors (Modernized Theme)
+  --neon-green: #{$neon-green};
+  --neon-magenta: #{$neon-magenta};
+  --neon-cyan: #{$neon-cyan};
+  --neon-yellow: #{$neon-yellow};
+  --neon-purple: #{$neon-purple};
+
+  // Primary neon accent (can toggle between green/magenta)
+  --color-neon-primary: var(--neon-green);
+  --color-neon-secondary: var(--neon-magenta);
+  --color-neon-tertiary: var(--neon-cyan);
+
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
@@ -111,6 +123,11 @@ html[data-theme="dark"] {
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+
+  // Neon colors remain vibrant on dark backgrounds
+  --color-neon-primary: var(--neon-green);
+  --color-neon-secondary: var(--neon-magenta);
+  --color-neon-tertiary: var(--neon-cyan);
 
   .only-light {
     display: none;
