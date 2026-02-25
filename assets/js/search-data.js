@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-implementing-basic-gameplay-mission-from-unity3d",
+        },{id: "post-interviewing-for-ai-positions",
+      
+        title: "Interviewing for AI Positions",
+      
+      description: "Thoughts on interviews with and without AI while interviewing for AI positions",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/ai-in-interviews/";
+        
+      },
+    },{id: "post-implementing-basic-gameplay-mission-from-unity3d",
       
         title: "Implementing Basic Gameplay mission from Unity3D",
       
