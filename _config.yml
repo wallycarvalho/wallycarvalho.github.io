@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Wally's Blog # blog_name will be displayed in your blog page
+blog_name: Blog # blog_name will be displayed in your blog page
 blog_description: Learnings and thoughts on various topics during my engineering journey
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

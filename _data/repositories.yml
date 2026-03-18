@@ -4,5 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - wallycarvalho/dont-get-hit
+  - wallycarvalho/python-pt-br
+  - wallycarvalho/expenses-prediction-model
   - wallycarvalho/unity-programmer-pathways-prototype-2
   - twilightapp/react-navigation-bottom-button
