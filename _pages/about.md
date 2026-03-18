@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Generalist Engineer and Machine Learning Engineer
+subtitle: Generalist Engineer, Full Stack Developer, Game Dev, and AI Enthusiast
 
 profile:
   align: right
