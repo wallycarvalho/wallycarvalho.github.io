@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-interviewing-for-ai-positions",
+        },{id: "post-gpt-image-2-is-impressive-but-at-what-cost",
+      
+        title: "GPT Image 2 is impressive, but at what cost?",
+      
+      description: "A reflection on the latest advancements in AI image generation and the ethical implications surrounding it.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/gpt-image-2/";
+        
+      },
+    },{id: "post-interviewing-for-ai-positions",
       
         title: "Interviewing for AI Positions",
       
