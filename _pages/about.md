@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Generalist Engineer
+subtitle: Full Stack Engineer, Generalist and Machine Learning Enthusiast
 
 profile:
   align: right
