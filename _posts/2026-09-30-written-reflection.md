@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Safety & Reckleness
+title: AI Safety & Recklessness
 date: 2026-09-30 08:00:00
 description: Morning reflection
 tags: AI ethics technology
