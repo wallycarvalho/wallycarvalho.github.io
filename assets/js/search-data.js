@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-ai-safety-amp-recklessness",
-      
-        title: "AI Safety &amp; Recklessness",
-      
-      description: "Morning reflection",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2026/written-reflection/";
-        
-      },
-    },{id: "post-gpt-image-2-is-impressive-but-at-what-cost",
+        },{id: "post-gpt-image-2-is-impressive-but-at-what-cost",
       
         title: "GPT Image 2 is impressive, but at what cost?",
       
