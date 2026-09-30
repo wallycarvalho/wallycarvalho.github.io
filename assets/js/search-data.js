@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-ai-safety-amp-reckleness",
+        },{id: "post-ai-safety-amp-recklessness",
       
-        title: "AI Safety &amp; Reckleness",
+        title: "AI Safety &amp; Recklessness",
       
       description: "Morning reflection",
       section: "Posts",
